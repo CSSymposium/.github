@@ -1,3 +1,3 @@
-# .github
+# CSS Symposium
 
 Hi there 👋
